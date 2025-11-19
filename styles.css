@@ -15,7 +15,7 @@ html {
 body {
     padding: 0;
     margin: 0;
-    height: 100vh;
+    height: 100%;
     display: flex;
     background-color: #F9FAFB;
 }
@@ -23,7 +23,7 @@ body {
 #side-image {
     background-image: url('./tree-leaves.jpg');
     background-repeat: no-repeat;
-    background-size: 100%, 100%;
+    background-size: 100% 100%;
     color: white;
     box-sizing: border-box;
     height: 100%;
